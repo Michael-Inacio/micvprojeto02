@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: micvprojeto02
+  host: micvprojeto02
+  disk_quota: 1024M
